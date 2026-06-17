@@ -1,5 +1,5 @@
 # 🚀 VectoRAG — AI-Powered Semantic Search Engine
-[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Click%20Here-brightgreen?style=for-the-badge)](http://YOUR_VM_PUBLIC_IP:9090)
+[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Click%20Here-brightgreen?style=for-the-badge)](http://20.40.53.95:9090)
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen?style=flat-square)
